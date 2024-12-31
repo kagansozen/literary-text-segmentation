@@ -1,0 +1,12 @@
+# Ignore all text files
+*.txt
+
+# Ignore the data folder (if it contains large datasets)
+data/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
